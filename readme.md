@@ -1,0 +1,1 @@
+This project is for understanding of sentiment analysis prediction dealing with text.
